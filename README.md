@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/luanasj/Challenge---sign-up-form-with-success-message)
-- Live Site URL: [Add live site URL here](https://luanasj.github.io/Challenge---sign-up-form-with-success-message/)
+- Solution URL: [https://github.com/luanasj/Challenge---sign-up-form-with-success-message](https://github.com/luanasj/Challenge---sign-up-form-with-success-message)
+- Live Site URL: [https://luanasj.github.io/Challenge---sign-up-form-with-success-message/](https://luanasj.github.io/Challenge---sign-up-form-with-success-message/)
 
 ### Built with
 
@@ -48,13 +48,13 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/) 
-- [Example resource 2](hhttps://pt.stackoverflow.com) 
+- [https://developer.mozilla.org/](https://developer.mozilla.org/) 
+- [hhttps://pt.stackoverflow.com](hhttps://pt.stackoverflow.com) 
 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/luanasj)
+- Frontend Mentor - [@luanasj](https://www.frontendmentor.io/profile/luanasj)
 
 
 
